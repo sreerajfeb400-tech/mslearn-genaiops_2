@@ -1,0 +1,8 @@
+﻿{
+  "name": "github-actions-immutable",
+  "issuer": "https://token.actions.githubusercontent.com",
+  "subject": "repo:sreerajfeb400-tech@332144814/mslearn-genaiops_2@1437969378:ref:refs/heads/main",
+  "audiences": [
+    "api://AzureADTokenExchange"
+  ]
+}
